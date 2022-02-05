@@ -77,15 +77,10 @@ body{
 } */
 
 
-
-
-#navbar button{
-  background: none;
-
+#btn:hover{
+  background-color: #f7941d !important;
 }
-#navbar button:hover{
-  background-color: #2aabe5;
-}
+
 
 
 
