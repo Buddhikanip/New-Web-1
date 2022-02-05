@@ -79,8 +79,13 @@ body{
 
 
 
+#navbar button{
+  background: none;
 
-
+}
+#navbar button:hover{
+  background-color: #2aabe5;
+}
 
 
 
