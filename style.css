@@ -83,8 +83,6 @@ body{
 
 #navbar button{
   background: none;
-  z-index: 1;
-
 }
 #navbar button:hover{
   background-color: #2aabe5;
@@ -100,6 +98,7 @@ body{
 #navbar {
   overflow: hidden;
   background-color: #333;
+  z-index: 1;
 }
 
 #navbar a {
