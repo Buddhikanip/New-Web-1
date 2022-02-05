@@ -17,7 +17,9 @@ body{
   background-color:#211e53;
 }
 
-
+#btn:hover{
+  background-color: #f7941d !important;
+}
 
 .topnavbar ul{
   list-style-type: none;
@@ -77,10 +79,15 @@ body{
 } */
 
 
-#btn:hover{
-  background-color: #f7941d !important;
-}
 
+
+#navbar button{
+  background: none;
+
+}
+#navbar button:hover{
+  background-color: #2aabe5;
+}
 
 
 
